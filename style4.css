@@ -1,0 +1,116 @@
+*{
+    background-color: #f0f2f5;
+    
+}
+h1{
+    text-align: center;
+    line-height: 20px;
+    padding-top: 10px;
+    font-size: 36px;
+    color: #1877F2;
+}
+#heading3{
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#input{
+    text-align: center;
+    padding-bottom: 10px;
+    background-color: white;
+    
+}
+#pass{
+    text-align: center;
+    background-color: white;
+}
+.email{
+    font-size: medium;
+    border-style:solid;
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+    padding: 10px;
+    border-color: #ECECEC;
+    background-color: white;
+}
+.lock{
+
+    font-size: medium;
+    border-style:solid;
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+    padding: 10px;
+    border-color: #ECECEC;
+    background-color: white;
+    
+
+}
+#buttonlogin{
+    text-align: center;
+    padding-top: 10px;
+    background-color: white;
+
+}
+#login{
+    cursor: pointer;
+    font-size: larger;
+    height: 40px;
+    width: 320px;
+    color: floralwhite;
+    border-style:none;
+    border-radius: 5px;
+    background-color: #1877F2;
+}
+#anchor{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: white;
+}
+a{
+    color: #1877F2;
+    text-decoration: none;
+    font-size: medium;
+    background-color: white;
+}
+hr{
+    width: 330px;
+    opacity: 0.3;
+}
+#create{
+    text-align: center;
+    padding-top: 20px;
+    background-color: white;
+}
+#new{
+    cursor: pointer;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: rgb(36, 195, 36);
+    margin-top: 10px;
+    color: floralwhite;
+    font-size: larger;
+    border-radius: 5px;
+    border-style: none;
+    height: 46px;
+    width: 230px;
+}
+#new:hover{
+    background-color: green;
+}
+form{
+    
+    border-style: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 440px;
+    margin-right: 440px;
+    border-radius: 15px;
+    background-color: white;
+}
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
